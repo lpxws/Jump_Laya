@@ -7,7 +7,7 @@ export default class Player extends Laya.Script{
     private maxJumpSpeed:number = 2.5;
     private jumpAcc:number = 0.2;
     //private jumpDec:Number = 8.53;
-    private basicJumpSpeed:number = 2.04;
+    private basicJumpSpeed:number = 2.05;
     private velocityX:number;
     private velocityY:number;
     public direction:number;
